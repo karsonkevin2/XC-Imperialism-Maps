@@ -31,7 +31,7 @@ For a team result to be counted, it must satisfy:
       * Locally for perennial teams
       * Or pull from 3rd party
     * Use appropriate team colours
-      * I have a LUT for DI teams in a different repo
+      * I have a [LUT for DI teams in a different repo](https://github.com/karsonkevin2/NCAA-Colors/blob/main/teamColors.xlsm)
       * Other division data may not be accessible
       * Could generate based off logo
       * How to prevent conflict between adjacent similar colors?
